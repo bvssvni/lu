@@ -1,17 +1,18 @@
-	lu: Löve animated objects in Lua script
-	BSD license.
-	by Sven Nilsen, 2012
-	http://www.cutoutpro.com
+lu: Löve/Lua library with tools for procedural animation
+BSD license.
+by Sven Nilsen, 2012
+http://www.cutoutpro.com
 
-	Version: 0.000 in angular degrees version notation
-	http://isprogrammingeasy.blogspot.no/2012/08/angular-degrees-versioning-notation.html
+Version: 0.000 in angular degrees version notation
+http://isprogrammingeasy.blogspot.no/2012/08/angular-degrees-versioning-notation.html
 
 ABOUT THIS LIBRARY
 
-Reusable code for animated objects. Each file has documentation.
+Reusable code for animated objects. Each file has its own documentation.
 
-	- Animated. Method for updating time on list of objects.
-	- AnimatedText. Shows text, animated letter by letter.
+- Animated. Method for updating time on list of objects.
+- AnimatedText. Shows text, animated letter by letter.
+- Box collision. Get contact normal between two colliding boxes.
 
 LICENSE
 
